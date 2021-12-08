@@ -11,7 +11,7 @@ ports:
     - port: 5432
       onOpen: ignore
 tasks:
-    - before: nvm install 14
+    - before: nvm install 14 && nvm use 14
     - init: >
         nvm install 14 &&
         (cp -n .env.example .env || true) && 
