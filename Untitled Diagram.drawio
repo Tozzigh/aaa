@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-25T14:01:42.469Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="2NPU7jJDqhyLpF-eIuuC" version="16.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-25T14:43:31.345Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LvVNz8HzNK7MaEgZRaGb" version="16.6.4" type="github">
   <diagram id="ynnjjBdjVaOxe4yOROdL" name="Page-1">
     <mxGraphModel dx="1185" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -237,7 +237,7 @@
             <mxPoint x="1320" y="99.57999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-21" value="StepLoadedState &lt;font style=&quot;font-size: 12px&quot;&gt;{&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;List&amp;lt;dynamic&amp;gt;[&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;QuestionStep, Step]&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;, List&amp;lt;ObservationType&amp;gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;}&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=center;" vertex="1" parent="1">
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-21" value="StepLoadedState &lt;font style=&quot;font-size: 12px&quot;&gt;{&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;List&amp;lt;dynamic&amp;gt;[&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;steps]&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;, List&amp;lt;ObservationType&amp;gt;&lt;/font&gt;&lt;font style=&quot;font-size: 12px&quot;&gt;}&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=center;" vertex="1" parent="1">
           <mxGeometry x="1320" y="70" width="740" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WJ7_vyo7JS_4xyPOwC3P-22" value="CreateStep" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;labelBackgroundColor=default;" edge="1" parent="1">
@@ -301,11 +301,11 @@
         </mxCell>
         <mxCell id="WJ7_vyo7JS_4xyPOwC3P-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeColor=default;startFill=1;endFill=1;anchorPointDirection=1;bendable=1;movable=1;cloneable=1;deletable=1;labelBackgroundColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1421" y="385" as="targetPoint" />
-            <mxPoint x="1390" y="385" as="sourcePoint" />
+            <mxPoint x="1431" y="385" as="targetPoint" />
+            <mxPoint x="1400" y="385" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1390" y="430" />
-              <mxPoint x="1421" y="430" />
+              <mxPoint x="1400" y="430" />
+              <mxPoint x="1431" y="430" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -316,17 +316,106 @@
         </mxCell>
         <mxCell id="WJ7_vyo7JS_4xyPOwC3P-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeColor=default;startFill=1;endFill=1;anchorPointDirection=1;bendable=1;movable=1;cloneable=1;deletable=1;labelBackgroundColor=default;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1460" y="520" as="targetPoint" />
-            <mxPoint x="1460" y="385" as="sourcePoint" />
+            <mxPoint x="1480" y="520" as="targetPoint" />
+            <mxPoint x="1480" y="385" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1460" y="480" />
-              <mxPoint x="1460" y="480" />
+              <mxPoint x="1480" y="480" />
+              <mxPoint x="1480" y="480" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WJ7_vyo7JS_4xyPOwC3P-43" value="UpdateStepForm&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;{ ... &#39;observationType&#39;: ObservationType.toJson()}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="WJ7_vyo7JS_4xyPOwC3P-42">
           <mxGeometry x="-0.6441" y="1" relative="1" as="geometry">
             <mxPoint x="9" y="51" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-45" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=#FF0000;fontSize=10;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1530" y="450" as="sourcePoint" />
+            <mxPoint x="1530" y="385" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-46" value="&#39;type&#39; != &#39;question&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" vertex="1" connectable="0" parent="WJ7_vyo7JS_4xyPOwC3P-45">
+          <mxGeometry x="-0.3179" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-47" value="&#39;type&#39; == &#39;question&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1480" y="489.9999999999999" as="geometry" />
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-48" value="&amp;nbsp;CreateQuestionStepState&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=left;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="520" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-49" value="Map&amp;lt;String, dynamic&amp;gt;{ { ... }" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=10;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="1600" y="535" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeColor=default;startFill=1;endFill=1;anchorPointDirection=1;bendable=1;movable=1;cloneable=1;deletable=1;labelBackgroundColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1400.17" y="580" as="targetPoint" />
+            <mxPoint x="1369.17" y="580" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1369.17" y="625" />
+              <mxPoint x="1400.17" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-51" value="UpdateStepForm&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;{ ... &#39;header&#39;: String}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="WJ7_vyo7JS_4xyPOwC3P-50">
+          <mxGeometry x="-0.6441" y="1" relative="1" as="geometry">
+            <mxPoint x="19" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeColor=default;startFill=1;endFill=1;anchorPointDirection=1;bendable=1;movable=1;cloneable=1;deletable=1;labelBackgroundColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1510.17" y="580" as="targetPoint" />
+            <mxPoint x="1479.17" y="580" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1479.17" y="625" />
+              <mxPoint x="1510.17" y="625" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-53" value="UpdateStepForm&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;{ ... &#39;body&#39;: String}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="WJ7_vyo7JS_4xyPOwC3P-52">
+          <mxGeometry x="-0.6441" y="1" relative="1" as="geometry">
+            <mxPoint x="19" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeColor=default;startFill=1;endFill=1;anchorPointDirection=1;bendable=1;movable=1;cloneable=1;deletable=1;labelBackgroundColor=default;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1559.17" y="715" as="targetPoint" />
+            <mxPoint x="1559.17" y="580" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1559.17" y="675" />
+              <mxPoint x="1559.17" y="675" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-55" value="UpdateStepForm&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;{ ... &#39;observationType&#39;: ObservationType.toJson()}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="WJ7_vyo7JS_4xyPOwC3P-54">
+          <mxGeometry x="-0.6441" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="51" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-56" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=#FF0000;fontSize=10;fontColor=#000000;strokeColor=#000000;strokeWidth=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1609.17" y="645" as="sourcePoint" />
+            <mxPoint x="1609.17" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-57" value="&#39;type&#39; != &#39;question&#39;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=10;fontColor=#000000;" vertex="1" connectable="0" parent="WJ7_vyo7JS_4xyPOwC3P-56">
+          <mxGeometry x="-0.3179" relative="1" as="geometry">
+            <mxPoint y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-58" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;labelBackgroundColor=default;" edge="1" parent="1">
+          <mxGeometry x="0.1796" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1660" y="520" as="sourcePoint" />
+            <mxPoint x="1659" y="133" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WJ7_vyo7JS_4xyPOwC3P-59" value="CancelCreate" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="WJ7_vyo7JS_4xyPOwC3P-58">
+          <mxGeometry x="0.2086" relative="1" as="geometry">
+            <mxPoint y="-42" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
