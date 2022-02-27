@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-27T10:53:18.569Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="91O_4dUfNOro8Ra1CWoY" version="16.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2022-02-27T12:15:08.979Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="aA9REwNUDgaGb2cSOFjD" version="16.6.4" type="github" pages="2">
   <diagram id="ynnjjBdjVaOxe4yOROdL" name="Page-1">
     <mxGraphModel dx="3378" dy="881" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" background="#FFFFFF" math="0" shadow="0">
       <root>
@@ -543,46 +543,46 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4wYiaiOs9i9aaXgetfYq" name="Page-2">
-    <mxGraphModel dx="1422" dy="705" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2785" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="wKlm7JHYMuzDDKTHhrOQ-0" />
         <mxCell id="wKlm7JHYMuzDDKTHhrOQ-1" parent="wKlm7JHYMuzDDKTHhrOQ-0" />
-        <mxCell id="I3AYWNQfzSkLfj843U3Q-0" value="OnloadHealthPlan&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;{BuildContext}&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;shadow=0;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1" source="I3AYWNQfzSkLfj843U3Q-1" target="I3AYWNQfzSkLfj843U3Q-5">
+        <mxCell id="I3AYWNQfzSkLfj843U3Q-0" value="OnloadHealthPlan&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;{BuildContext}&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;shadow=0;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1" source="I3AYWNQfzSkLfj843U3Q-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint as="offset" />
+            <mxPoint x="140" y="764.4999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I3AYWNQfzSkLfj843U3Q-1" value="&lt;font style=&quot;font-size: 20px&quot;&gt;HealthInitialState&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
-          <mxGeometry x="160" y="693.5" width="160" height="151" as="geometry" />
+          <mxGeometry x="-160" y="689" width="160" height="151" as="geometry" />
         </mxCell>
         <mxCell id="I3AYWNQfzSkLfj843U3Q-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeColor=default;startFill=1;endFill=1;anchorPointDirection=1;bendable=1;movable=1;cloneable=1;deletable=1;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="541" y="799" as="targetPoint" />
-            <mxPoint x="510" y="799" as="sourcePoint" />
+            <mxPoint x="711" y="799" as="targetPoint" />
+            <mxPoint x="680" y="799" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="510" y="888" />
-              <mxPoint x="541" y="888" />
+              <mxPoint x="680" y="840" />
+              <mxPoint x="711" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I3AYWNQfzSkLfj843U3Q-3" value="Reset&amp;nbsp;&lt;font style=&quot;font-size: 10px&quot;&gt;{BuildContext}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="I3AYWNQfzSkLfj843U3Q-2">
+        <mxCell id="I3AYWNQfzSkLfj843U3Q-3" value="ResetHealthPlan&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;{BuildContext}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="I3AYWNQfzSkLfj843U3Q-2">
           <mxGeometry x="-0.6441" y="1" relative="1" as="geometry">
-            <mxPoint x="9" y="53" as="offset" />
+            <mxPoint x="9" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I3AYWNQfzSkLfj843U3Q-4" value="ReadHeathPlan&lt;br&gt;&lt;font size=&quot;1&quot;&gt;{BuildContext, healthPlan&lt;/font&gt;&lt;font size=&quot;1&quot;&gt;}&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
-          <mxGeometry x="0.194" relative="1" as="geometry">
+        <mxCell id="I3AYWNQfzSkLfj843U3Q-4" value="ReadHeathPlan&lt;br&gt;&lt;font size=&quot;1&quot;&gt;{BuildContext, healthPlan&lt;/font&gt;&lt;font size=&quot;1&quot;&gt;}&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;labelBackgroundColor=default;entryX=0.318;entryY=-0.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1" target="I3AYWNQfzSkLfj843U3Q-14">
+          <mxGeometry x="-0.0746" relative="1" as="geometry">
             <mxPoint x="960" y="799" as="sourcePoint" />
             <mxPoint x="960" y="866" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="960" y="819" />
-              <mxPoint x="960" y="819" />
+              <mxPoint x="960" y="869" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I3AYWNQfzSkLfj843U3Q-5" value="HealthPlansLoadedState &lt;font style=&quot;font-size: 12px&quot;&gt;{List&amp;lt;HealthPlan&amp;gt;}&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=center;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
-          <mxGeometry x="460" y="739" width="740" height="60" as="geometry" />
+          <mxGeometry x="140" y="739" width="1060" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3AYWNQfzSkLfj843U3Q-6" value="&amp;nbsp;HealthPlanDeleteState" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=left;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
           <mxGeometry x="290" y="569" width="290" height="40" as="geometry" />
@@ -606,17 +606,17 @@
         </mxCell>
         <mxCell id="I3AYWNQfzSkLfj843U3Q-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="721" y="800" as="targetPoint" />
-            <mxPoint x="690" y="799" as="sourcePoint" />
+            <mxPoint x="831" y="800" as="targetPoint" />
+            <mxPoint x="800" y="799" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="690" y="889" />
-              <mxPoint x="721" y="889" />
+              <mxPoint x="800" y="840" />
+              <mxPoint x="831" y="840" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="I3AYWNQfzSkLfj843U3Q-10" value="Search &lt;font style=&quot;font-size: 10px&quot;&gt;{BuildContext, String searchLike}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="I3AYWNQfzSkLfj843U3Q-9">
+        <mxCell id="I3AYWNQfzSkLfj843U3Q-10" value="SearchHealthPlan&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;{BuildContext, String searchLike}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="I3AYWNQfzSkLfj843U3Q-9">
           <mxGeometry x="-0.6441" y="1" relative="1" as="geometry">
-            <mxPoint x="19" y="53" as="offset" />
+            <mxPoint x="9" y="21" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="I3AYWNQfzSkLfj843U3Q-11" value="&amp;nbsp;HealthPlanResultState" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=center;verticalAlign=top;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
@@ -666,8 +666,8 @@
         </mxCell>
         <mxCell id="I3AYWNQfzSkLfj843U3Q-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.738;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
           <mxGeometry x="0.1796" width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="820.0000000000009" y="739" as="sourcePoint" />
-            <mxPoint x="820.2200000000003" y="620.3199999999997" as="targetPoint" />
+            <mxPoint x="710.3100000000009" y="739" as="sourcePoint" />
+            <mxPoint x="710.5300000000002" y="620.3199999999997" as="targetPoint" />
             <Array as="points" />
             <mxPoint as="offset" />
           </mxGeometry>
@@ -689,19 +689,16 @@
             <mxPoint x="-4" y="18" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="I3AYWNQfzSkLfj843U3Q-23" value="Close&amp;nbsp;&lt;font style=&quot;font-size: 10px&quot;&gt;{BuildContext}&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
-          <mxGeometry x="0.3559" relative="1" as="geometry">
-            <mxPoint x="900" y="619" as="sourcePoint" />
-            <mxPoint x="900" y="737.0000000000002" as="targetPoint" />
+        <mxCell id="I3AYWNQfzSkLfj843U3Q-23" value="&lt;div&gt;OnloadHealthPlan&lt;/div&gt;&amp;nbsp;&lt;font style=&quot;font-size: 10px&quot;&gt;{BuildContext}&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="0.3729" relative="1" as="geometry">
+            <mxPoint x="819.31" y="619" as="sourcePoint" />
+            <mxPoint x="819.31" y="737.0000000000002" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="900" y="679" />
-              <mxPoint x="900" y="679" />
+              <mxPoint x="819.31" y="679" />
+              <mxPoint x="819.31" y="679" />
             </Array>
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="I3AYWNQfzSkLfj843U3Q-24" value="&amp;nbsp;ProtocolCreateState" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=left;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
-          <mxGeometry x="1320" y="509.5" width="295" height="60" as="geometry" />
         </mxCell>
         <mxCell id="I3AYWNQfzSkLfj843U3Q-29" value="&lt;span style=&quot;text-align: left&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;text-align: left&quot;&gt;HealthPlan}&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=12;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
           <mxGeometry x="1080" y="875" width="60" height="30" as="geometry" />
@@ -710,38 +707,24 @@
           <mxGeometry x="540" y="574" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I3AYWNQfzSkLfj843U3Q-31" value="Map&amp;lt;String,dynamic&amp;gt;{&#39;status&#39; : bool, &#39;message&#39; : String}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=12;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
-          <mxGeometry x="540" y="160" width="60" height="30" as="geometry" />
+          <mxGeometry x="510" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="I3AYWNQfzSkLfj843U3Q-32" value="{List&amp;lt;Currency&amp;gt;,&lt;div&gt;List&amp;lt;Country&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Doctor&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;SimplePatient&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Client&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Protocol&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Protocol&amp;gt;,&lt;/div&gt;&lt;div&gt;Map&amp;lt;int, Map&amp;lt;String, List&amp;lt;dynamic&amp;gt;&amp;gt;&amp;gt; &lt;span style=&quot;background-color: rgb(255 , 255 , 51)&quot;&gt;schedules&lt;/span&gt;,&lt;/div&gt;Map&amp;lt;String,dynamic&amp;gt; HealthPlan.toJson()}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
           <mxGeometry x="820" y="524.5" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="I3AYWNQfzSkLfj843U3Q-33" value="{List&amp;lt;Doctor&amp;gt;&lt;div&gt;List&amp;lt;HealthPlan&amp;gt;&lt;/div&gt;List&amp;lt;Disease&amp;gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=12;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
-          <mxGeometry x="1535" y="524.5" width="60" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="7ILspEY3AD1Vuj82Rc2D-0" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;strokeColor=default;startFill=1;endFill=1;anchorPointDirection=1;bendable=1;movable=1;cloneable=1;deletable=1;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="911" y="910" as="targetPoint" />
-            <mxPoint x="880" y="910" as="sourcePoint" />
+            <mxPoint x="971" y="910" as="targetPoint" />
+            <mxPoint x="940" y="910" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="880" y="960" />
-              <mxPoint x="911" y="960" />
+              <mxPoint x="940" y="950" />
+              <mxPoint x="971" y="950" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="7ILspEY3AD1Vuj82Rc2D-1" value="ChangeTabHealthPlan&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;{BuildContext, int index}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="7ILspEY3AD1Vuj82Rc2D-0">
           <mxGeometry x="-0.6441" y="1" relative="1" as="geometry">
-            <mxPoint x="19" y="27" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ILspEY3AD1Vuj82Rc2D-2" value="" style="endArrow=none;dashed=1;html=1;rounded=0;labelBackgroundColor=default;fontSize=10;fontColor=#000000;fillColor=#e51400;strokeColor=#FF0000;strokeWidth=2;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1090" y="1010" as="sourcePoint" />
-            <mxPoint x="1040" y="910" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7ILspEY3AD1Vuj82Rc2D-3" value="View&lt;br&gt;&lt;font size=&quot;1&quot;&gt;{BuildContext,&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: x-small&quot;&gt;List&amp;lt;Protocol&amp;gt;,&lt;/span&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;int id}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="7ILspEY3AD1Vuj82Rc2D-2">
-          <mxGeometry x="0.1849" y="-1" relative="1" as="geometry">
-            <mxPoint x="-1" y="9" as="offset" />
+            <mxPoint x="19" y="10" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="vuucAp_HE0bYSlhXPsNl-0" value="&amp;nbsp;ProtocolDetailState&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=left;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
@@ -778,8 +761,8 @@
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="WFLs0yy3A0rbzJJqjb06-4" value="&amp;nbsp;AddPatientToHealthPlanState &lt;font style=&quot;font-size: 12px&quot;&gt;{List&amp;lt;SimplePatient&amp;gt;&lt;br&gt;Map&amp;lt;String, dynamic&amp;gt;}&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=center;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
-          <mxGeometry x="630" y="290" width="290" height="80" as="geometry" />
+        <mxCell id="WFLs0yy3A0rbzJJqjb06-4" value="&amp;nbsp;AddPatientToHealthPlanState" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=center;verticalAlign=top;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="630" y="270" width="290" height="100" as="geometry" />
         </mxCell>
         <mxCell id="WFLs0yy3A0rbzJJqjb06-9" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;{1: {&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;D&quot;:[&quot;13:13],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;J&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;L&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;M&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;S&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;V&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;X&quot;: []&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;}...}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFF33;fontSize=10;fontColor=default;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
           <mxGeometry x="1120" y="524.5" width="90" height="30" as="geometry" />
@@ -810,8 +793,8 @@
             <mxPoint y="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fuVG4SDx5uIB8gy5tQ-O-3" value="&amp;nbsp;AddProtocolsToHealthPlanState &lt;font style=&quot;font-size: 12px&quot;&gt;{List&amp;lt;SimplePatient&amp;gt;&lt;br&gt;Map&amp;lt;String, dynamic&amp;gt;}&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=center;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
-          <mxGeometry x="930" y="290" width="300" height="80" as="geometry" />
+        <mxCell id="fuVG4SDx5uIB8gy5tQ-O-3" value="&amp;nbsp;AddProtocolsToHealthPlanState &lt;font style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=center;verticalAlign=top;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="930" y="270" width="300" height="100" as="geometry" />
         </mxCell>
         <mxCell id="fuVG4SDx5uIB8gy5tQ-O-4" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=0;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
           <mxGeometry x="0.1796" width="50" height="50" relative="1" as="geometry">
@@ -824,6 +807,308 @@
         <mxCell id="fuVG4SDx5uIB8gy5tQ-O-5" value="EditHealthPlan&lt;br&gt;&lt;font size=&quot;1&quot;&gt;{BuildContext, HealthPlan}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="fuVG4SDx5uIB8gy5tQ-O-4">
           <mxGeometry x="0.2086" relative="1" as="geometry">
             <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuVG4SDx5uIB8gy5tQ-O-13" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=default;fontSize=10;fontColor=default;strokeColor=#FF0000;strokeWidth=2;dashed=1;fillColor=#e51400;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.843;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1" source="I3AYWNQfzSkLfj843U3Q-14" target="vuucAp_HE0bYSlhXPsNl-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1105" y="920" as="sourcePoint" />
+            <mxPoint x="1170" y="905" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuVG4SDx5uIB8gy5tQ-O-15" value="View&lt;br&gt;&lt;font size=&quot;1&quot;&gt;{BuildContext,&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: x-small&quot;&gt;List&amp;lt;Protocol&amp;gt;,&lt;/span&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;int id}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="1104.9985599622573" y="950.0048183206513" as="geometry" />
+        </mxCell>
+        <mxCell id="fuVG4SDx5uIB8gy5tQ-O-16" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=default;fontSize=10;fontColor=default;strokeColor=#FF0000;strokeWidth=2;dashed=1;fillColor=#e51400;exitX=0.987;exitY=1.012;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1" source="I3AYWNQfzSkLfj843U3Q-15">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1210" y="630" as="sourcePoint" />
+            <mxPoint x="1222" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fuVG4SDx5uIB8gy5tQ-O-17" value="View&lt;br&gt;&lt;font size=&quot;1&quot;&gt;{BuildContext,&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: x-small&quot;&gt;List&amp;lt;Protocol&amp;gt;,&lt;/span&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;int id}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="1220.0033994527662" y="669.998376986181" as="geometry" />
+        </mxCell>
+        <mxCell id="M4pDj8YtKonei8mOgsQQ-1" value="{List&amp;lt;SimplePatient&amp;gt;&lt;br&gt;Map&amp;lt;String, dynamic&amp;gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=12;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="745" y="315" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4pDj8YtKonei8mOgsQQ-2" value="{List&amp;lt;SimplePatient&amp;gt;&lt;br&gt;Map&amp;lt;String, dynamic&amp;gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=12;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="1050" y="315" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="M4pDj8YtKonei8mOgsQQ-3" value="HealthPlanUpdateFailureState" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=center;verticalAlign=top;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="1580" y="420" width="350" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="M4pDj8YtKonei8mOgsQQ-4" value="&lt;div&gt;&lt;/div&gt;UpdateDataHealthPlan&lt;br&gt;&amp;nbsp;&lt;font style=&quot;font-size: 10px&quot;&gt;{Map&amp;lt;String,dynamic&amp;gt; HealthPlan.toJson()}}&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;labelBackgroundColor=default;exitX=1.002;exitY=0.881;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1" source="I3AYWNQfzSkLfj843U3Q-15">
+          <mxGeometry x="0.0305" relative="1" as="geometry">
+            <mxPoint x="1260" y="601" as="sourcePoint" />
+            <mxPoint x="1520" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1260" y="600" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-2" value="result == true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;labelBackgroundColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="-0.3846" relative="1" as="geometry">
+            <mxPoint x="1520" y="600" as="sourcePoint" />
+            <mxPoint x="1580" y="675" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1520" y="675" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-3" value="result == false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;labelBackgroundColor=default;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1" target="M4pDj8YtKonei8mOgsQQ-3">
+          <mxGeometry x="-0.3846" relative="1" as="geometry">
+            <mxPoint x="1520" y="600" as="sourcePoint" />
+            <mxPoint x="1580" y="510.03" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1520" y="505" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-6" value="{List&amp;lt;Currency&amp;gt;,&lt;div&gt;List&amp;lt;Country&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Doctor&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;SimplePatient&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Client&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Protocol&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Protocol&amp;gt;,&lt;/div&gt;&lt;div&gt;Map&amp;lt;int, Map&amp;lt;String, List&amp;lt;dynamic&amp;gt;&amp;gt;&amp;gt; &lt;span style=&quot;background-color: rgb(255 , 255 , 51)&quot;&gt;schedules&lt;/span&gt;,&lt;/div&gt;Map&amp;lt;String,dynamic&amp;gt; HealthPlan.toJson()}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="1580" y="500" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-7" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;{1: {&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;D&quot;:[&quot;13:13],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;J&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;L&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;M&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;S&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;V&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;X&quot;: []&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;}...}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFF33;fontSize=10;fontColor=default;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="1860" y="500" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-8" value="HealthPlanUpdateSuccessState" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=center;verticalAlign=top;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="1580" y="609" width="350" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-9" value="{List&amp;lt;Currency&amp;gt;,&lt;div&gt;List&amp;lt;Country&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Doctor&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;SimplePatient&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Client&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Protocol&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Protocol&amp;gt;,&lt;/div&gt;&lt;div&gt;Map&amp;lt;int, Map&amp;lt;String, List&amp;lt;dynamic&amp;gt;&amp;gt;&amp;gt; &lt;span style=&quot;background-color: rgb(255 , 255 , 51)&quot;&gt;schedules&lt;/span&gt;,&lt;/div&gt;Map&amp;lt;String,dynamic&amp;gt; HealthPlan.toJson()}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="1580" y="689" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-10" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;{1: {&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;D&quot;:[&quot;13:13],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;J&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;L&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;M&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;S&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;V&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;X&quot;: []&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;}...}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFF33;fontSize=10;fontColor=default;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="1860" y="689" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="951.0000000000002" y="620" as="targetPoint" />
+            <mxPoint x="920" y="619" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="920" y="650" />
+              <mxPoint x="951" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-13" value="ChangeProtocolSelected&lt;br&gt;{&lt;span style=&quot;font-size: 10px&quot;&gt;List&amp;lt;Protocol&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;bool create&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;}&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="QitdQlhcurnY1mq1EbeB-12">
+          <mxGeometry x="-0.6441" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="24" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1095.5000000000002" y="620" as="targetPoint" />
+            <mxPoint x="1064.5" y="619" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1064.5" y="650" />
+              <mxPoint x="1095.5" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-15" value="AddSchedules&lt;br&gt;{&lt;span style=&quot;font-size: 10px&quot;&gt;int protocolId,&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;String day,&lt;/div&gt;&lt;div&gt;String time,&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;bool create&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;}&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="QitdQlhcurnY1mq1EbeB-14">
+          <mxGeometry x="-0.6441" y="1" relative="1" as="geometry">
+            <mxPoint x="9" y="34" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-16" value="OnloadHealthPlan&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;{BuildContext}&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=-0.003;exitY=0.829;exitDx=0;exitDy=0;entryX=1.001;entryY=0.181;entryDx=0;entryDy=0;labelBackgroundColor=default;shadow=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1" source="QitdQlhcurnY1mq1EbeB-8" target="I3AYWNQfzSkLfj843U3Q-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="1339.9999999999984" y="749.9999999999998" as="sourcePoint" />
+            <mxPoint x="1480" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-18" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=-0.005;exitY=0.358;exitDx=0;exitDy=0;labelBackgroundColor=default;exitPerimeter=0;entryX=1;entryY=0.121;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1" source="M4pDj8YtKonei8mOgsQQ-3" target="I3AYWNQfzSkLfj843U3Q-15">
+          <mxGeometry x="0.1796" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360.000000000001" y="460.0000000000001" as="sourcePoint" />
+            <mxPoint x="1360" y="550.0000000000001" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-19" value="EditHealthPlan&lt;br&gt;&lt;font size=&quot;1&quot;&gt;{BuildContext, HealthPlan}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="QitdQlhcurnY1mq1EbeB-18">
+          <mxGeometry x="0.2086" relative="1" as="geometry">
+            <mxPoint x="23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-23" value="CreateHealthPlan&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;{BuildContext}&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="-0.3643" relative="1" as="geometry">
+            <mxPoint x="520" y="799" as="sourcePoint" />
+            <mxPoint x="520" y="928" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="520" y="870" />
+              <mxPoint x="520" y="870" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-25" value="&amp;nbsp; HealthPlanCreateState" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=left;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="220" y="930" width="600" height="159" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-26" value="{List&amp;lt;Currency&amp;gt;,&lt;div&gt;List&amp;lt;Country&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Doctor&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;SimplePatient&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Client&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Protocol&amp;gt;,&lt;/div&gt;&lt;div&gt;List&amp;lt;Protocol&amp;gt;,&lt;/div&gt;&lt;div&gt;Map&amp;lt;int, Map&amp;lt;String, List&amp;lt;dynamic&amp;gt;&amp;gt;&amp;gt; &lt;span style=&quot;background-color: rgb(255 , 255 , 51)&quot;&gt;schedules&lt;/span&gt;,&lt;/div&gt;Map&amp;lt;String,dynamic&amp;gt; HealthPlan.toJson()}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=none;fontSize=12;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="410" y="994.5" width="280" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-27" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;{1: {&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;D&quot;:[&quot;13:13],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;J&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;L&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;M&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;S&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;V&quot;: [],&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&amp;nbsp; &amp;nbsp; &quot;X&quot;: []&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;&lt;span style=&quot;font-size: 10px;&quot;&gt;}...}&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFF33;fontSize=10;fontColor=default;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="710" y="994.5" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-28" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=0;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="0.1796" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="290" y="1089" as="sourcePoint" />
+            <mxPoint x="290.0000000000009" y="1179" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-29" value="AddPatientToHealthPlan&lt;br&gt;&lt;font size=&quot;1&quot;&gt;{BuildContext, Client}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="QitdQlhcurnY1mq1EbeB-28">
+          <mxGeometry x="0.2086" relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-30" value="&amp;nbsp;AddPatientToHealthPlanState" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=center;verticalAlign=top;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="220" y="1180" width="290" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-31" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=0;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="0.1796" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="1179" as="sourcePoint" />
+            <mxPoint x="440.0000000000009" y="1089" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-32" value="EditHealthPlan&lt;br&gt;&lt;font size=&quot;1&quot;&gt;{BuildContext, HealthPlan}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="QitdQlhcurnY1mq1EbeB-31">
+          <mxGeometry x="0.2086" relative="1" as="geometry">
+            <mxPoint y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-33" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=0;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="0.1796" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="1089" as="sourcePoint" />
+            <mxPoint x="600.0000000000009" y="1179" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-34" value="AddProtocolsToHealthPlan&lt;br&gt;&lt;font size=&quot;1&quot;&gt;{BuildContext, List&amp;lt;Protocol&amp;gt;}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="QitdQlhcurnY1mq1EbeB-33">
+          <mxGeometry x="0.2086" relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-35" value="&amp;nbsp;AddProtocolsToHealthPlanState &lt;font style=&quot;font-size: 12px&quot;&gt;&amp;nbsp;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=center;verticalAlign=top;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="520" y="1180" width="300" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-36" value="" style="endArrow=classic;html=1;rounded=0;fontSize=20;exitX=0;exitY=0;exitDx=0;exitDy=0;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="0.1796" width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="750" y="1179" as="sourcePoint" />
+            <mxPoint x="750.0000000000009" y="1089" as="targetPoint" />
+            <Array as="points" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-37" value="EditHealthPlan&lt;br&gt;&lt;font size=&quot;1&quot;&gt;{BuildContext, HealthPlan}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="QitdQlhcurnY1mq1EbeB-36">
+          <mxGeometry x="0.2086" relative="1" as="geometry">
+            <mxPoint x="5" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-38" value="{List&amp;lt;SimplePatient&amp;gt;&lt;br&gt;Map&amp;lt;String, dynamic&amp;gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=12;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="335" y="1225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-39" value="{List&amp;lt;SimplePatient&amp;gt;&lt;br&gt;Map&amp;lt;String, dynamic&amp;gt;}" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=default;fontSize=12;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="640" y="1225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-40" value="" style="endArrow=classic;html=1;rounded=0;shadow=0;labelBackgroundColor=default;fontSize=10;fontColor=default;strokeColor=#FF0000;strokeWidth=2;dashed=1;fillColor=#e51400;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="820" y="1030" as="sourcePoint" />
+            <mxPoint x="960" y="1030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-41" value="View&lt;br&gt;&lt;font size=&quot;1&quot;&gt;{BuildContext,&lt;br&gt;&lt;/font&gt;&lt;span style=&quot;font-size: x-small&quot;&gt;List&amp;lt;Protocol&amp;gt;,&lt;/span&gt;&lt;font size=&quot;1&quot;&gt;&lt;br&gt;int id}&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;fontColor=#000000;" vertex="1" connectable="0" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="889.9985599622573" y="1030.0048183206513" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="441.00000000000045" y="929.004482758621" as="targetPoint" />
+            <mxPoint x="410.00000000000045" y="930.004482758621" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="410.00000000000045" y="899.004482758621" />
+              <mxPoint x="441.00000000000045" y="899.004482758621" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-43" value="AddSchedules&lt;br&gt;{&lt;span style=&quot;font-size: 10px&quot;&gt;int protocolId,&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;&lt;div&gt;String day,&lt;/div&gt;&lt;div&gt;String time,&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;bool create&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;}&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="QitdQlhcurnY1mq1EbeB-42">
+          <mxGeometry x="-0.6441" y="1" relative="1" as="geometry">
+            <mxPoint x="21" y="-38" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-44" value="&lt;div&gt;OnloadHealthPlan&lt;/div&gt;&amp;nbsp;&lt;font style=&quot;font-size: 10px&quot;&gt;{BuildContext}&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="-0.2308" y="-1" relative="1" as="geometry">
+            <mxPoint x="609.43" y="930.0000000000005" as="sourcePoint" />
+            <mxPoint x="609" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="609.43" y="870.0000000000005" />
+              <mxPoint x="609.43" y="870.0000000000005" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="335.0000000000003" y="929.0044827586208" as="targetPoint" />
+            <mxPoint x="304.00000000000006" y="930.0044827586208" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="304.00000000000006" y="899.0044827586208" />
+              <mxPoint x="335.00000000000006" y="899.0044827586208" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-46" value="ChangeProtocolSelected&lt;br&gt;{&lt;span style=&quot;font-size: 10px&quot;&gt;List&amp;lt;Protocol&amp;gt;&lt;/span&gt;&lt;br style=&quot;font-size: 10px&quot;&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;bool create&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;}&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;labelBackgroundColor=default;" vertex="1" connectable="0" parent="QitdQlhcurnY1mq1EbeB-45">
+          <mxGeometry x="-0.6441" y="1" relative="1" as="geometry">
+            <mxPoint x="17" y="-23" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-54" value="HealthPlanCreateFailureState" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=center;verticalAlign=top;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="-480.00000000000006" y="900" width="350" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-55" value="&lt;div&gt;&lt;/div&gt;SendDataHealthPlan&lt;br&gt;&lt;div&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;{HealthPlan,&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 10px&quot;&gt;List&amp;lt;SimplePatient&amp;gt;}&lt;/span&gt;&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;labelBackgroundColor=default;exitX=1.002;exitY=0.881;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="0.0305" relative="1" as="geometry">
+            <mxPoint x="-68.80000000000018" y="1010.079" as="sourcePoint" />
+            <mxPoint x="220" y="1009.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-40" y="1010" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-56" value="result == true" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;labelBackgroundColor=default;entryX=1;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1" target="QitdQlhcurnY1mq1EbeB-60">
+          <mxGeometry x="-0.3846" relative="1" as="geometry">
+            <mxPoint x="-69.9952941176457" y="1009.9999999999998" as="sourcePoint" />
+            <mxPoint x="-129.9952941176457" y="1084.9999999999998" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-70" y="1070" />
+              <mxPoint x="-130" y="1070" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-57" value="result == false" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;labelBackgroundColor=default;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="-0.3846" relative="1" as="geometry">
+            <mxPoint x="-68.79882352941189" y="1009.9999999999998" as="sourcePoint" />
+            <mxPoint x="-129" y="930" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-70" y="1010" />
+              <mxPoint x="-70" y="930" />
+              <mxPoint x="-129" y="930" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-60" value="HealthPlanCreateSuccessState" style="rounded=0;whiteSpace=wrap;html=1;fontSize=20;fillColor=none;labelBackgroundColor=default;align=center;verticalAlign=top;" vertex="1" parent="wKlm7JHYMuzDDKTHhrOQ-1">
+          <mxGeometry x="-480.00000000000006" y="1059" width="350" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="QitdQlhcurnY1mq1EbeB-66" value="OnloadHealthPlan&lt;br&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;{BuildContext}&lt;/font&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.003;entryY=0.935;entryDx=0;entryDy=0;labelBackgroundColor=default;shadow=0;entryPerimeter=0;" edge="1" parent="wKlm7JHYMuzDDKTHhrOQ-1" target="QitdQlhcurnY1mq1EbeB-25">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+            <mxPoint x="-130.00000000000364" y="1079.0799999999997" as="sourcePoint" />
+            <mxPoint x="10" y="1079.0799999999997" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
